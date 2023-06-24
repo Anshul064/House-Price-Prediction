@@ -1,4 +1,4 @@
-## Poject Description 
+## Project Description 
 Predicting House Prices using graphlab.
 
 ## Packages used 
